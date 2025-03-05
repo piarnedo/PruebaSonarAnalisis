@@ -1,1 +1,1 @@
-_RI/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/Pruebas.csproj¢net8.0òCSharp12
+LR6/home/piarnedo/KubernetesDocker/Pruebas/Pruebas.csproj¢net8.0òCSharp12

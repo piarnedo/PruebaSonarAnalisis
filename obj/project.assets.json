@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/Pruebas.csproj",
+      "projectUniqueName": "/home/piarnedo/KubernetesDocker/Pruebas/Pruebas.csproj",
       "projectName": "Pruebas",
-      "projectPath": "/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/Pruebas.csproj",
+      "projectPath": "/home/piarnedo/KubernetesDocker/Pruebas/Pruebas.csproj",
       "packagesPath": "/home/piarnedo/.nuget/packages/",
-      "outputPath": "/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/obj/",
+      "outputPath": "/home/piarnedo/KubernetesDocker/Pruebas/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/piarnedo/.nuget/NuGet/NuGet.Config"

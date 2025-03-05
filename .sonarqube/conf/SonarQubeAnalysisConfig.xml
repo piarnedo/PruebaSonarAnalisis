@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AnalysisConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <SonarConfigDir>/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/.sonarqube/conf</SonarConfigDir>
-  <SonarOutputDir>/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/.sonarqube/out</SonarOutputDir>
-  <SonarBinDir>/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/.sonarqube/bin</SonarBinDir>
-  <SonarScannerWorkingDirectory>/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas</SonarScannerWorkingDirectory>
+  <SonarConfigDir>/home/piarnedo/KubernetesDocker/Pruebas/.sonarqube/conf</SonarConfigDir>
+  <SonarOutputDir>/home/piarnedo/KubernetesDocker/Pruebas/.sonarqube/out</SonarOutputDir>
+  <SonarBinDir>/home/piarnedo/KubernetesDocker/Pruebas/.sonarqube/bin</SonarBinDir>
+  <SonarScannerWorkingDirectory>/home/piarnedo/KubernetesDocker/Pruebas</SonarScannerWorkingDirectory>
   <JavaExePath>/home/piarnedo/.sonar/cache/4086cc7cb2d9e7810141f255063caad10a8a018db5e6b47fa5394c506ab65bff/OpenJDK17U-jre_x64_linux_hotspot_17.0.13_11.tar.gz_extracted/jdk-17.0.13+11-jre/bin/java</JavaExePath>
   <ScanAllAnalysis>false</ScanAllAnalysis>
   <HasBeginStepCommandLineCredentials>true</HasBeginStepCommandLineCredentials>
@@ -15,7 +15,7 @@
     <ConfigSetting Id="TfsUri" />
     <ConfigSetting Id="VsCoverageConverterToolPath" />
     <ConfigSetting Id="UnchangedFilesPath" />
-    <ConfigSetting Id="sonar.pullrequest.cache.basepath" Value="/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas" />
+    <ConfigSetting Id="sonar.pullrequest.cache.basepath" Value="/home/piarnedo/KubernetesDocker/Pruebas" />
     <ConfigSetting Id="settings.file.path" Value="/home/piarnedo/.dotnet/tools/.store/dotnet-sonarscanner/9.2.1/dotnet-sonarscanner/9.2.1/tools/netcoreapp3.1/any/SonarQube.Analysis.xml" />
   </AdditionalConfig>
   <ServerSettings>
@@ -153,8 +153,8 @@
   <AnalyzersSettings>
     <AnalyzerSettings>
       <Language>cs</Language>
-      <RulesetPath>/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/.sonarqube/conf/Sonar-cs.ruleset</RulesetPath>
-      <DeactivatedRulesetPath>/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/.sonarqube/conf/Sonar-cs-none.ruleset</DeactivatedRulesetPath>
+      <RulesetPath>/home/piarnedo/KubernetesDocker/Pruebas/.sonarqube/conf/Sonar-cs.ruleset</RulesetPath>
+      <DeactivatedRulesetPath>/home/piarnedo/KubernetesDocker/Pruebas/.sonarqube/conf/Sonar-cs-none.ruleset</DeactivatedRulesetPath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="10.6.0.109712" StaticResourceName="SonarAnalyzer-csharp-10.6.0.109712.zip">
           <AssemblyPaths>
@@ -164,13 +164,13 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/.sonarqube/conf/cs/SonarLint.xml</Path>
+        <Path>/home/piarnedo/KubernetesDocker/Pruebas/.sonarqube/conf/cs/SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
     <AnalyzerSettings>
       <Language>vbnet</Language>
-      <RulesetPath>/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/.sonarqube/conf/Sonar-vbnet.ruleset</RulesetPath>
-      <DeactivatedRulesetPath>/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/.sonarqube/conf/Sonar-vbnet-none.ruleset</DeactivatedRulesetPath>
+      <RulesetPath>/home/piarnedo/KubernetesDocker/Pruebas/.sonarqube/conf/Sonar-vbnet.ruleset</RulesetPath>
+      <DeactivatedRulesetPath>/home/piarnedo/KubernetesDocker/Pruebas/.sonarqube/conf/Sonar-vbnet-none.ruleset</DeactivatedRulesetPath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="vbnet" Version="10.6.0.109712" StaticResourceName="SonarAnalyzer-vbnet-10.6.0.109712.zip">
           <AssemblyPaths>
@@ -180,7 +180,7 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/.sonarqube/conf/vbnet/SonarLint.xml</Path>
+        <Path>/home/piarnedo/KubernetesDocker/Pruebas/.sonarqube/conf/vbnet/SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
   </AnalyzersSettings>

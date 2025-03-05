@@ -1,2 +1,2 @@
-P
-E/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/Program.csr‚
+=
+2/home/piarnedo/KubernetesDocker/Pruebas/Program.csr‚

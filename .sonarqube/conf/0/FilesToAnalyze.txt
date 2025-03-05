@@ -1,1 +1,2 @@
-﻿/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/Program.cs
+﻿/home/piarnedo/KubernetesDocker/Pruebas/Program.cs
+/home/piarnedo/KubernetesDocker/Pruebas/README.md

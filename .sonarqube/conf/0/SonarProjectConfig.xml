@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
-  <AnalysisConfigPath>/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/.sonarqube/conf/SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
-  <ProjectPath>/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/Pruebas.csproj</ProjectPath>
-  <FilesToAnalyzePath>/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/.sonarqube/conf/0/FilesToAnalyze.txt</FilesToAnalyzePath>
-  <OutPath>/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/.sonarqube/out/0</OutPath>
+  <AnalysisConfigPath>/home/piarnedo/KubernetesDocker/Pruebas/.sonarqube/conf/SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>/home/piarnedo/KubernetesDocker/Pruebas/Pruebas.csproj</ProjectPath>
+  <FilesToAnalyzePath>/home/piarnedo/KubernetesDocker/Pruebas/.sonarqube/conf/0/FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>/home/piarnedo/KubernetesDocker/Pruebas/.sonarqube/out/0</OutPath>
   <ProjectType>Product</ProjectType>
   <TargetFramework>net8.0</TargetFramework>
 </SonarProjectConfig>

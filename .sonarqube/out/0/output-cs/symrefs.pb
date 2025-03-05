@@ -1,2 +1,2 @@
-G
-E/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/Program.cs
+4
+2/home/piarnedo/KubernetesDocker/Pruebas/Program.cs
