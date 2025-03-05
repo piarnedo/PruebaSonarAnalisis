@@ -1,0 +1,1 @@
+/home/piarnedo/KubernetesDocker/3-tier-application/Pruebas/.sonarqube/out/0
